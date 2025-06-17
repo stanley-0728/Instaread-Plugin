@@ -5,7 +5,7 @@
  * Description: Auto-injecting audio player with centralized updates
  * Version: 2.1.0
  * Author: Instaread Team
- * Update URI: https://[your-github-username].github.io/[repo]/plugin.json
+ * Update URI: https://stanley-0728.github.io/Instaread-Plugin/plugin.json
  */
 
 defined('ABSPATH') || exit;
