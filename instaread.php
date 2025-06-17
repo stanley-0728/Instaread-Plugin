@@ -17,7 +17,7 @@ require_once __DIR__ . '/plugin-update-checker/plugin-update-checker.php';
 use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
 
 $updateChecker = PucFactory::buildUpdateChecker(
-    'https://[your-github-username].github.io/[repo]/plugin.json',
+    'https://stanley-0728.github.io/Instaread-Plugin/plugin.json',
     __FILE__,
     'instaread-audio-player'
 );
