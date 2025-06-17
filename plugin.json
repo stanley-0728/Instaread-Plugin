@@ -1,0 +1,10 @@
+{
+  "version": "2.1.0",
+  "download_url": "https://github.com/[your-username]/[repo]/releases/download/v2.1.0/instaread-audio-player.zip",
+  "requires": "5.6",
+  "requires_php": "7.4",
+  "tested": "6.5",
+  "sections": {
+    "changelog": "<h4>2.1.0</h4><ul><li>Initial stable release</li><li>Auto-update support</li></ul>"
+  }
+}
