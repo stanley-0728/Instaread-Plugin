@@ -3,7 +3,7 @@
  * Plugin Name: Instaread Audio Player
  * Plugin URI: https://instaread.co
  * Description: Auto-injecting audio player with centralized updates
- * Version: 2.1.3
+ * Version: 2.1.4
  * Author: Instaread Team
  * Update URI: https://stanley-0728.github.io/Instaread-Plugin/plugin.json
  */
